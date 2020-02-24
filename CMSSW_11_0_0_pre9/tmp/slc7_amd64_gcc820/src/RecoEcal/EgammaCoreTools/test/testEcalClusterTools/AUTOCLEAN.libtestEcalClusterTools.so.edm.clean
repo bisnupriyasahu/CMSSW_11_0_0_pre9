@@ -1,0 +1,2 @@
+01:/usr/bin/rm -f lib/slc7_amd64_gcc820/plugintestEcalClusterTools.so lib/slc7_amd64_gcc820/testEcalClusterTools.edmplugin
+90:edmPluginRefresh lib/slc7_amd64_gcc820

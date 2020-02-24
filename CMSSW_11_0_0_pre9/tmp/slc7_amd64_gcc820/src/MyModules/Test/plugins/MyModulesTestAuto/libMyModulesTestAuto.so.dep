@@ -1,0 +1,3 @@
+tmp/slc7_amd64_gcc820/src/MyModules/Test/plugins/MyModulesTestAuto/Test.cc.o: \
+ src/MyModules/Test/plugins/Test.cc \
+

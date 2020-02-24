@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=RecoEcal
+subdirs_src_RecoEcal = src_RecoEcal_EgammaCoreTools src_RecoEcal_EgammaClusterAlgos

@@ -1,0 +1,4 @@
+tmp/slc7_amd64_gcc820/src/RecoEcal/EgammaCoreTools/test/testEcalClusterTools/testEcalClusterTools.cc.o: \
+ src/RecoEcal/EgammaCoreTools/test/testEcalClusterTools.cc \
+ src/RecoEcal/EgammaCoreTools/interface/EcalClusterTools.h \
+

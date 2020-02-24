@@ -1,0 +1,1 @@
+EGamma_AnalyzerEGammaanalyzerAuto EGamma_Analyzer/EGammaanalyzer/plugins/EGammaanalyzer.cc

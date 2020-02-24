@@ -1,0 +1,2 @@
+01:/usr/bin/rm -f lib/slc7_amd64_gcc820/pluginEGamma_AnalyzerEGammaanalyzerAuto.so lib/slc7_amd64_gcc820/EGamma_AnalyzerEGammaanalyzerAuto.edmplugin
+90:edmPluginRefresh lib/slc7_amd64_gcc820

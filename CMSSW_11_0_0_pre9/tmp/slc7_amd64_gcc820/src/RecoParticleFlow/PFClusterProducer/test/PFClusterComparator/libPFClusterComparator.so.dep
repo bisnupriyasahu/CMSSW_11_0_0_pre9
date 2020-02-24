@@ -1,0 +1,4 @@
+tmp/slc7_amd64_gcc820/src/RecoParticleFlow/PFClusterProducer/test/PFClusterComparator/PFClusterComparator.cc.o: \
+ src/RecoParticleFlow/PFClusterProducer/test/PFClusterComparator.cc \
+ src/RecoParticleFlow/PFClusterProducer/test/PFClusterComparator.h \
+

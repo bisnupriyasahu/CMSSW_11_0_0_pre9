@@ -1,0 +1,5 @@
+tmp/slc7_amd64_gcc820/src/EGamma_Analyzer/EGammaanalyzer/plugins/EGamma_AnalyzerEGammaanalyzerAuto/EGammaanalyzer.cc.o: \
+ src/EGamma_Analyzer/EGammaanalyzer/plugins/EGammaanalyzer.cc \
+ src/RecoEcal/EgammaCoreTools/interface/EcalClusterTools.h \
+ src/RecoEcal/EgammaCoreTools/interface/EcalTools.h
+

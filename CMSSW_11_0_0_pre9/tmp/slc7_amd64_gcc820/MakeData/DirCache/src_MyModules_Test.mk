@@ -1,0 +1,2 @@
+ALL_PACKAGES += MyModules/Test
+subdirs_src_MyModules_Test := src_MyModules_Test_test src_MyModules_Test_python src_MyModules_Test_plugins

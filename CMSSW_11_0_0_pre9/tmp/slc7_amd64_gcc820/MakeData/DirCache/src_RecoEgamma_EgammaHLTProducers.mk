@@ -1,0 +1,2 @@
+ALL_PACKAGES += RecoEgamma/EgammaHLTProducers
+subdirs_src_RecoEgamma_EgammaHLTProducers := src_RecoEgamma_EgammaHLTProducers_plugins

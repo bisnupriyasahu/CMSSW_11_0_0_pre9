@@ -1,0 +1,2 @@
+ALL_PACKAGES += EGamma_Analyzer/EGammaanalyzer
+subdirs_src_EGamma_Analyzer_EGammaanalyzer := src_EGamma_Analyzer_EGammaanalyzer_test src_EGamma_Analyzer_EGammaanalyzer_python src_EGamma_Analyzer_EGammaanalyzer_plugins

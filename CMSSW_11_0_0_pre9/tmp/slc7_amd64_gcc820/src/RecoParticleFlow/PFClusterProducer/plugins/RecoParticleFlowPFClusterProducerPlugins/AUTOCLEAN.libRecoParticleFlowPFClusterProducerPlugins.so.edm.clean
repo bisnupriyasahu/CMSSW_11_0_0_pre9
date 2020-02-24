@@ -1,0 +1,2 @@
+01:/usr/bin/rm -f lib/slc7_amd64_gcc820/pluginRecoParticleFlowPFClusterProducerPlugins.so lib/slc7_amd64_gcc820/RecoParticleFlowPFClusterProducerPlugins.edmplugin
+90:edmPluginRefresh lib/slc7_amd64_gcc820

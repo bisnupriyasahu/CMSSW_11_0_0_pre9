@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=RecoParticleFlow
+subdirs_src_RecoParticleFlow = src_RecoParticleFlow_PFClusterProducer
